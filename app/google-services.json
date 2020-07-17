@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956616340094",
+    "firebase_url": "https://myapp2-7264c.firebaseio.com",
+    "project_id": "myapp2-7264c",
+    "storage_bucket": "myapp2-7264c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956616340094:android:99efcaefd4873159",
+        "android_client_info": {
+          "package_name": "com.example.tanvi.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956616340094-43tmce2u29k1phsgr82aqtdas4sa1vmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanvi.myapp",
+            "certificate_hash": "4cb3e0b8fba829109cd1093b9e195f719c4d9d4e"
+          }
+        },
+        {
+          "client_id": "956616340094-pgqrk5senvkcaprpib5ml808qg5v84i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxu2DwJ5vO8s-xXEW9lIoIBAi3E8N0SbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956616340094-pgqrk5senvkcaprpib5ml808qg5v84i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
