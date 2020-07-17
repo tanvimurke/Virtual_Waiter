@@ -4,6 +4,7 @@ System presents an interactive and up-to-date menu with all available options in
 Six Sands Self-Order Menu is an app that allows customers to order food from the Six Sands restaurant all on their own. With an eMenu and self-ordering system, customers can use a self-service kiosk in the restaurant driveway or a self-ordering terminal at a table to access the restaurant menu and order a meal. This ensures prompt order processing at peak times, improves the overall service speed, and reduces wait times to ultimately increase customer satisfaction.
 
 Available in 2 modes:
+
 Kiosk mode - Ideal for quick service restaurant environments. The customer orders directly on the app, then waits for the order. The admin can view the orders and also delete them once being served.
 
 Table mode - Ideal for multi-order, table service restaurant environments. The app is affiliated with a specific table. With the help of waitstaff, the customer can place several orders.
@@ -11,7 +12,7 @@ The application has been developed using Android Studio as IDE and Firebase for 
 
 ## Working
 Some important functions and classes that are included in the project:
-1. Text To Speech:
+1.Text To Speech:
 Android allows you convert your text into voice. Not only you can convert it but it also allows you to speak text in variety of different languages.
 Android provides TextToSpeech class for this purpose. In order to use this class, you need to instantiate an object of this class and also specify the initListener. 
 In this listener, you have to specify the properties for TextToSpeech object , such as its language ,pitch e.t.c. Language can be set by calling setLanguage() method. The method setLanguage takes an Locale object as parameter. Once you have set the language, you can call speak method of the class to speak the text. Apart from the speak method, there are some other methods available in the TextToSpeech class.
@@ -31,7 +32,7 @@ Working:
 1. When you open the app you can select either user or admin.
 2. If you are user then you can directly view the menu.
 3. Browse for the menu where images, description, voice assistance would help you to choose your order.
-4.By switching on the button your order will be placed.
-5.If you are an admin then log in into the app using password.
-6.You would be able to view the orders that the customers have placed.
-7.After serving the order you can clear the page as well
+4. By switching on the button your order will be placed.
+5. If you are an admin then log in into the app using password.
+6. You would be able to view the orders that the customers have placed.
+7. After serving the order you can clear the page as well
